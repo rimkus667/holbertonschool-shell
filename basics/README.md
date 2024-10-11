@@ -1,0 +1,1 @@
+afficher les repertoire du travail actuel dans le terminal
