@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list_1 | ./13-unique
+cat list_1 | sort | uniq -u
