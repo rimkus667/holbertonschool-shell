@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -r input
+sort -r temp_input.txt
